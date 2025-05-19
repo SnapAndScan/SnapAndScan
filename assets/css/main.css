@@ -3721,7 +3721,7 @@
 
 			#banner .more:hover {
 				background: none;
-				color: rgba(255, 255, 255, 0.5);
+				color: rgba(255, 255, 255);
 				box-shadow: 0 0 1px 0 rgba(255, 255, 255, 0.5);
 			}
 
@@ -4442,3 +4442,7 @@
 			}
 
 		}
+
+h1#intro {
+	font-size: 5rem;
+}
